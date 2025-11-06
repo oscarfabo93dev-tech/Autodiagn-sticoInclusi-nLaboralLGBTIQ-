@@ -219,7 +219,7 @@ mi_app_inclusiva/
                  │                            │
         ┌────────▼────────────────────────────▼────────┐
         │           EXCEL DATA SOURCE                  │
-        │  (Autodiagnóstico inclusión LGBTIQ.xlsx)    │
+        │  (Autodiagnóstico inclusión LGBTIQ.xlsx)     │
         └──────────────────────────────────────────────┘
 ```
 
