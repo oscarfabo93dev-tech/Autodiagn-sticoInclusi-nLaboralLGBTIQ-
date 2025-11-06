@@ -50,20 +50,6 @@ Una herramienta interactiva de autodiagnóstico desarrollada en **Streamlit** pa
 
 ---
 
-## 🎥 Demo
-
-### Pantalla Principal
-
-![Screenshot Principal](docs/screenshot-home.png)
-
-### Resultados
-
-![Screenshot Resultados](docs/screenshot-results.png)
-
-**🔗 Demo en vivo:** [https://autodiagnostico-lgbtiq.streamlit.app](https://autodiagnostico-lgbtiq.streamlit.app) _(próximamente)_
-
----
-
 ## 💻 Requisitos
 
 ### Software
@@ -394,77 +380,6 @@ in the Software without restriction...
 
 ---
 
-## 👥 Autores
-
-### Desarrollador Principal
-
-**Oscar Fabo**
-
-- 💼 GitHub: [@oscarfabo93dev-tech](https://github.com/oscarfabo93dev-tech)
-- 📧 Email: [oscar.fabo@example.com](mailto:oscar.fabo@example.com)
-- 🌐 LinkedIn: [Oscar Fabo](https://linkedin.com/in/oscarfabo)
-
-### Colaboradores
-
-Agradecimientos a todos los [colaboradores](https://github.com/oscarfabo93dev-tech/AutodiagIncluLaboLGBTIQ-/graphs/contributors) que han participado en este proyecto.
-
----
-
-## 🙏 Agradecimientos
-
-- 🏳️‍🌈 **Comunidad LGBTIQ+** por la inspiración y retroalimentación continua
-- 🎨 **Equipo de diseño** por los recursos visuales y branding
-- 💻 **Streamlit Community** por el framework open-source
-- 📊 **Pandas & OpenPyXL** por las herramientas de manipulación de datos
-- 📄 **ReportLab** por la generación de PDFs
-- 🌟 **Todos los testers** que ayudaron a mejorar la experiencia
-
----
-
-## 📞 Soporte
-
-### ¿Necesitas ayuda?
-
-- 📖 **Documentación**: Lee este README completo
-- 🐛 **Reportar bugs**: [Abrir issue](https://github.com/oscarfabo93dev-tech/AutodiagIncluLaboLGBTIQ-/issues)
-- 💬 **Discusiones**: [GitHub Discussions](https://github.com/oscarfabo93dev-tech/AutodiagIncluLaboLGBTIQ-/discussions)
-- 📧 **Email**: oscar.fabo@example.com
-
-### FAQ
-
-**P: ¿Puedo usar esta herramienta en mi empresa?**  
-R: ¡Sí! Es software libre bajo licencia MIT. Puedes usarlo, modificarlo y distribuirlo.
-
-**P: ¿Los datos se guardan en algún servidor?**  
-R: No, todo el procesamiento es local. Los datos no se envían a ningún servidor externo.
-
-**P: ¿Cómo actualizo el cuestionario?**  
-R: Simplemente edita el archivo Excel en la carpeta `data/` con las nuevas preguntas.
-
-**P: ¿Funciona sin conexión a internet?**  
-R: Sí, una vez instalado funciona completamente offline.
-
----
-
-## 🗓️ Roadmap
-
-### v2.0.0 (Q1 2025)
-
-- [ ] Dashboard de estadísticas agregadas
-- [ ] Exportación a múltiples formatos (DOCX, HTML)
-- [ ] Comparación de resultados históricos
-- [ ] Sistema de recomendaciones personalizadas
-- [ ] Multi-idioma (ES, EN, PT)
-
-### v2.1.0 (Q2 2025)
-
-- [ ] Integración con APIs de RRHH
-- [ ] Autenticación de usuarios
-- [ ] Base de datos para almacenamiento
-- [ ] Módulo de analytics avanzado
-
----
-
 ## 📊 Estado del Proyecto
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
@@ -473,17 +388,5 @@ R: Sí, una vez instalado funciona completamente offline.
 ![Last Commit](https://img.shields.io/github/last-commit/oscarfabo93dev-tech/AutodiagIncluLaboLGBTIQ-)
 
 ---
-
-## 🌟 Star History
-
-Si te gusta este proyecto, ¡dale una estrella! ⭐
-
-[![Star History Chart](https://api.star-history.com/svg?repos=oscarfabo93dev-tech/AutodiagIncluLaboLGBTIQ-&type=Date)](https://star-history.com/#oscarfabo93dev-tech/AutodiagIncluLaboLGBTIQ-&Date)
-
----
-
-<div align="center">
-
-**Hecho con ❤️ y compromiso por la inclusión LGBTIQ+ en 2025**
 
 [⬆ Volver arriba](#-autodiagnóstico-en-inclusión-laboral-lgbtiq)
