@@ -29,7 +29,7 @@ def display_instructions(instructions_text: str) -> None:
     
     ## Cuestionario de autodiagnóstico en inclusión laboral LGBTIQ+
 
-    **Objetivo:** Este cuestionario permite evaluar, de forma rápida y estructurada, el nivel de madurez de su Agencia o Bolsa de Empleo en inclusión laboral de personas LGBTIQ+. Consta de 10 preguntas, cada una con tres opciones de respuesta que describen prácticas o situaciones concretas.
+    **Objetivo:** Este cuestionario permite evaluar, de forma rápida y estructurada, el nivel de madurez de su empresa en inclusión laboral de personas LGBTIQ+. Consta de 10 preguntas, cada una con tres opciones de respuesta que describen prácticas o situaciones concretas.
 
     ### ¿Cómo completarlo?
     1. Lea atentamente cada pregunta y sus tres opciones
